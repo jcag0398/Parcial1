@@ -1,0 +1,29 @@
+#alan-image{
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-width: 5px;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+#quote{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span{
+    font-weight: bold;
+}
+
+body{
+    background-color: #b39b4f;
+}
+
+footer{
+    margin-top: 50px;
+}
